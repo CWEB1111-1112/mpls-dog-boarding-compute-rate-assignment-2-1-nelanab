@@ -1,0 +1,11 @@
+C:\Users\anane\OneDrive - Dunwoody College of Technology\Dunwoody\Programming Fundamentals II\assignmentTwo\bin\Debug\netcoreapp3.1\assignmentTwo.exe
+C:\Users\anane\OneDrive - Dunwoody College of Technology\Dunwoody\Programming Fundamentals II\assignmentTwo\bin\Debug\netcoreapp3.1\assignmentTwo.deps.json
+C:\Users\anane\OneDrive - Dunwoody College of Technology\Dunwoody\Programming Fundamentals II\assignmentTwo\bin\Debug\netcoreapp3.1\assignmentTwo.runtimeconfig.json
+C:\Users\anane\OneDrive - Dunwoody College of Technology\Dunwoody\Programming Fundamentals II\assignmentTwo\bin\Debug\netcoreapp3.1\assignmentTwo.runtimeconfig.dev.json
+C:\Users\anane\OneDrive - Dunwoody College of Technology\Dunwoody\Programming Fundamentals II\assignmentTwo\bin\Debug\netcoreapp3.1\assignmentTwo.dll
+C:\Users\anane\OneDrive - Dunwoody College of Technology\Dunwoody\Programming Fundamentals II\assignmentTwo\bin\Debug\netcoreapp3.1\assignmentTwo.pdb
+C:\Users\anane\OneDrive - Dunwoody College of Technology\Dunwoody\Programming Fundamentals II\assignmentTwo\obj\Debug\netcoreapp3.1\assignmentTwo.csprojAssemblyReference.cache
+C:\Users\anane\OneDrive - Dunwoody College of Technology\Dunwoody\Programming Fundamentals II\assignmentTwo\obj\Debug\netcoreapp3.1\assignmentTwo.AssemblyInfoInputs.cache
+C:\Users\anane\OneDrive - Dunwoody College of Technology\Dunwoody\Programming Fundamentals II\assignmentTwo\obj\Debug\netcoreapp3.1\assignmentTwo.AssemblyInfo.cs
+C:\Users\anane\OneDrive - Dunwoody College of Technology\Dunwoody\Programming Fundamentals II\assignmentTwo\obj\Debug\netcoreapp3.1\assignmentTwo.dll
+C:\Users\anane\OneDrive - Dunwoody College of Technology\Dunwoody\Programming Fundamentals II\assignmentTwo\obj\Debug\netcoreapp3.1\assignmentTwo.pdb
