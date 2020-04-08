@@ -14,9 +14,7 @@ namespace assignmentTwo
             Console.WriteLine("Please enter the amount of day's your dog is staying: ");
             dog_nights = Convert.ToInt32(Console.ReadLine());
 
-            // Getting service add on code
-            /* Console.WriteLine("Additional Services Cost: No Add-On Code N: $75.00 per night | Bathing and Grooming Code A: $169.00 per night | Bathing Only Code C: $112.00 per night");
-            Console.Write("Please enter the desired code (N, A, C): "); */
+            // Asking if user wants add on services
             Console.WriteLine("Do you want add on services? Yes / No : ");
             dog_addOn = Console.ReadLine();
 
